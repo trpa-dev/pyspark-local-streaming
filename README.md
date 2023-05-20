@@ -1,2 +1,2 @@
-# pyspark-hands-on
-Accomplished exercises from PySpark Udemy course
+# pyspark-local-streaming
+A PySpark Data Streaming project using a local generator stub as streaming source.
